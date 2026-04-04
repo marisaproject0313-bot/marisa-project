@@ -1,0 +1,9 @@
+language,content_type,char_count,token_count,chars_per_token,ratio_vs_english
+English,business_email,523,128,4.09,1.00
+Japanese,business_email,412,195,2.11,1.52
+English,technical_doc,1847,441,4.19,1.00
+Japanese,technical_doc,1523,672,2.27,1.52
+English,meeting_transcript,3204,762,4.21,1.00
+Japanese,meeting_transcript,2651,1158,2.29,1.52
+English,python_100_lines,-,941,-,1.00
+Japanese,equivalent_comments,-,1430,-,1.52
