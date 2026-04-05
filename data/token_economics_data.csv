@@ -1,9 +1,15 @@
-language,content_type,char_count,token_count,chars_per_token,ratio_vs_english
-English,business_email,523,128,4.09,1.00
-Japanese,business_email,412,195,2.11,1.52
-English,technical_doc,1847,441,4.19,1.00
-Japanese,technical_doc,1523,672,2.27,1.52
-English,meeting_transcript,3204,762,4.21,1.00
-Japanese,meeting_transcript,2651,1158,2.29,1.52
-English,python_100_lines,-,941,-,1.00
-Japanese,equivalent_comments,-,1430,-,1.52
+action	description	jp_tokens	en_tokens	jp_en_ratio	chars_per_token_jp	chars_per_token_en	category	confidence
+Thank you	Minimal greeting/acknowledgment	7	1	7			greeting	measured
+Short instruction	1-line instruction	17	8	2.13			instruction	measured
+Medium instruction	3-line instruction	91	41	2.22			instruction	measured
+Long instruction	10-line instruction	405	246	1.65			instruction	measured
+Short reply	Brief response	122	67	1.82			reply	measured
+Medium reply	1-paragraph response	772	636	1.21			reply	measured
+Handoff document	~500 chars structured handoff	355	230	1.54			document	measured
+Specification document	~2000 chars technical spec	1224	748	1.64			document	measured
+10-min meeting transcript	Real business meeting	3122	2049	1.52			transcript	measured
+30-min meeting transcript	Real business meeting	9394	6180	1.52			transcript	measured
+60-min meeting transcript	Real business meeting	18783	12326	1.52			transcript	measured
+Python 100 lines	Source code	941	941	1	3.54	3.54	code	measured
+JSON 100 lines	Structured data	1462	1462	1	2.25	2.25	code	measured
+Image 720p	720p resolution image	1229	1229	1			media	measured
