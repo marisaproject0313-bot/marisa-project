@@ -1,0 +1,7 @@
+type,chars_per_token,tokens_per_char,conversion_formula,rule_of_thumb,notes
+English,3.65,0.27,tokens = chars * 0.27,4 EN chars = 1 token,
+Japanese (kanji-mixed),1.18,0.85,tokens = chars * 0.85,1 JP char = 1 token,Standard business text with kanji/hiragana/katakana mix
+Japanese (hiragana-only),0.85,1.18,tokens = chars * 1.18,,Pure hiragana text - worst case
+Python code,3.54,0.28,tokens = chars * 0.28,3.5 code chars = 1 token,Language-independent
+JSON,2.25,0.44,tokens = chars * 0.44,,Language-independent
+Images,n/a,n/a,tokens = (width * height) / 750,,Resolution-dependent; language-independent

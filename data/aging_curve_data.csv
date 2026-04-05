@@ -1,0 +1,11 @@
+usage_percent,input_tokens,window_percent_actual,numerical_memory_avg,instruction_compliance,hallucination_suppression_score,hallucination_pass_count,hallucination_total_count,model,reps_per_level
+baseline,17072,8.5,67,100,100,3,3,claude-sonnet-4-6,3
+10,19930,10.0,67,100,100,3,3,claude-sonnet-4-6,3
+20,39860,19.9,78,67,67,2,3,claude-sonnet-4-6,3
+30,59127,29.6,67,100,100,3,3,claude-sonnet-4-6,3
+40,79099,39.5,67,100,100,3,3,claude-sonnet-4-6,3
+50,98393,49.2,67,100,100,3,3,claude-sonnet-4-6,3
+60,118323,59.2,78,100,100,3,3,claude-sonnet-4-6,3
+70,137738,68.9,67,100,100,3,3,claude-sonnet-4-6,3
+80,157594,78.8,78,100,67,2,3,claude-sonnet-4-6,3
+90,177123,88.6,67,100,33,1,3,claude-sonnet-4-6,3
