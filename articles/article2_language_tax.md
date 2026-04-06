@@ -121,7 +121,7 @@ The language tax is real, measurable, and partially fixable. It's not a reason t
 
 The conversation with your user? That stays in their language. The plumbing between your AI instances? English. The data payloads? CSV or Python where you control both ends, JSON where you don't. The dashboards and charts? Images.
 
-For the operational architecture behind how we manage 86 AI instances with these optimizations — including why we deliberately kill sessions before they degrade — see "[How We Run 86 AI Instances — And Why We Kill Them on Purpose](#article1)." For the personal story of building this system as a non-engineer, see "[I Can't Write Code. So I Built a Team of 86 AI Instances Instead.](#article3)"
+For the operational architecture behind how we manage 86 AI instances with these optimizations — including why we deliberately kill sessions before they degrade — see "[How We Run 86 AI Instances — And Why We Kill Them on Purpose](https://medium.com/@marisa.project0313/25ed101af37b)." For the personal story of building this system as a non-engineer, see "[I Can't Write Code. So I Built a Team of 86 AI Instances Instead.](https://medium.com/@marisa.project0313/e8857767ca91)"
 
 The tools to measure and mitigate the language tax already exist. The only prerequisite is knowing the problem is there.
 
