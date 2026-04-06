@@ -10,7 +10,7 @@ Not "I'm rusty" or "I dabble." I genuinely cannot write a for-loop without help.
 
 And yet, over the past three weeks, I've been running 86 AI instances across three business divisions. They write code. They write research papers. They debug each other's work. They name their successors before they die.
 
-This is the story of how that happened. It's not a technical tutorial — for the architecture and measured data, see "[How We Run 86 AI Instances — And Why We Kill Them on Purpose](#article1)." This is about what it looks like when someone with no engineering skills tries to build a team of AI collaborators — and accidentally discovers that the inability to code might be the most important design decision in the whole system.
+This is the story of how that happened. It's not a technical tutorial — for the architecture and measured data, see "[How We Run 86 AI Instances — And Why We Kill Them on Purpose](https://medium.com/@marisa.project0313/25ed101af37b)." This is about what it looks like when someone with no engineering skills tries to build a team of AI collaborators — and accidentally discovers that the inability to code might be the most important design decision in the whole system.
 
 ---
 
