@@ -12,7 +12,7 @@ Over the past three weeks, we've operated 86 named AI instances — 82 Claude an
 
 This isn't a metaphor. It's an architecture — and it's also a financial strategy. The Claude API has always been pay-per-token, and Anthropic recently tightened access for third-party tools using consumer subscriptions, pushing more usage toward token-based billing. When every token has a price tag, a degraded session doesn't just produce worse answers — it wastes money. Session lifecycle management just became a line item.
 
-(For the detailed token economics — including why Japanese users pay 1.52× more per interaction — see our companion article, "[The Language Tax: Why Your Japanese AI Costs 1.52x More](#article2).")
+(For the detailed token economics — including why Japanese users pay 1.52× more per interaction — see our companion article, "[The Language Tax: Why Your Japanese AI Costs 1.52x More](https://medium.com/@marisa.project0313/the-language-tax-why-your-japanese-ai-costs-1-52x-more-and-how-to-fix-it-633bfd686dcc).")
 
 ---
 
